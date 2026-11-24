@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aslam Sheik Alaudeen
+# Aslam
 
 **Builds AI tools that run on your own machine, and measures whether they work.**
 
